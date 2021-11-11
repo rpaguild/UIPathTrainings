@@ -1,0 +1,8 @@
+Hello,
+
+The invoice number generated for you purchase is Inv-22369.
+Due Amount - $400
+Due Date - 05-11-2020
+Please contact on the Email id : john.smith@gmail.com for any doubt.
+
+Thanks you!

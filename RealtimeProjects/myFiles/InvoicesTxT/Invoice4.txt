@@ -1,0 +1,8 @@
+Hello,
+
+The invoice number generated for you purchase is Inv-66789
+Due Amount - $200
+Due Date - 30-10-20
+Please contact on the Email id : store11@cityoflondon12.com for any doubt.
+
+Thanks you!

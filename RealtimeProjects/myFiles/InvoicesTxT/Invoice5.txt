@@ -1,0 +1,7 @@
+Hello,
+
+The invoice number generated for you purchase is .
+Due Amount - $200
+Due Date - 30/10/2020
+
+Thanks you!

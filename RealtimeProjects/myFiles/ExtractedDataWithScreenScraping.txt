@@ -1,0 +1,21 @@
+1.
+2.
+3.
+4. Option 1: Scan & OCR Steps, 1 of 2
+Open Scanned PDF
+Run Scan & OCR Tool
+Enhance "Scanned Document" (Recognize Text Checked)
+Multiple runs of Enhance to improve the quality of the scan
+56.4%
+AA Recognize Text • dates Numbering • Enhance •
+Accessibility
+Action Wizard
+Scan & OCR
+Organize Pages
+Create PDF
+Edit
+Export PDF Scanned Documen
+Camera Image
+Inger: Enhance • 62.5%
+AA Reccgnize Text • Bates Numberina •
+Recognize Text Enhanæ Cancel
