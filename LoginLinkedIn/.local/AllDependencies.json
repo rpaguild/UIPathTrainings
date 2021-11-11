@@ -1575,7 +1575,7 @@
         }
       }
     },
-    ".NETFramework,Version=v4.6.1/win7-x86": {
+    ".NETFramework,Version=v4.6.1/win10-x64": {
       "ClosedXML/0.87.1": {
         "type": "package",
         "dependencies": {
@@ -5017,15 +5017,15 @@
     ]
   },
   "packageFolders": {
-    "D:\\Users\\elvis.aragon\\.nuget\\packages\\": {}
+    "C:\\Users\\57350\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "LoginLinkedIn",
       "projectName": "LoginLinkedIn",
-      "projectPath": "D:\\Users\\elvis.aragon\\Documents\\UiPath\\LoginLinkedIn\\.local",
-      "packagesPath": "D:\\Users\\elvis.aragon\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\elvis.aragon\\Documents\\UiPath\\LoginLinkedIn\\.local"
+      "projectPath": "D:\\Documents\\UiPath\\REPO2\\UIPathTrainings\\LoginLinkedIn\\.local",
+      "packagesPath": "C:\\Users\\57350\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\UiPath\\REPO2\\UIPathTrainings\\LoginLinkedIn\\.local"
     },
     "frameworks": {
       "net461": {
@@ -5051,7 +5051,12 @@
             "version": "[21.4.4, 21.4.4]"
           }
         },
-        "runtimeIdentifierGraphPath": "D:\\Users\\elvis.aragon\\AppData\\Local\\UiPath\\app-21.4.4\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\57350\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+      }
+    },
+    "runtimes": {
+      "win10-x64": {
+        "#import": []
       }
     }
   }
